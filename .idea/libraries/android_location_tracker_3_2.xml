@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="android-location-tracker-3.2">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.android/build-cache/1a5faae1d6699d5c9da89fcbd9fa01cf1751d8e7/output/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.android/build-cache/1a5faae1d6699d5c9da89fcbd9fa01cf1751d8e7/output/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
